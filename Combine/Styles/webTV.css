@@ -1,0 +1,74 @@
+﻿
+div#EPG
+{
+	border: solid 1px #000;
+	padding: 1.2em 1.5em;	
+}
+
+div#time 
+{
+	float:left;
+	width:60px;
+}
+
+div#thumb
+{
+	float:left;
+	width:98px;
+}
+
+div#thumb image
+{
+	height: 72px;
+	width: 98px;
+}
+
+div#detail
+{
+	float:left;
+	width:256px;
+}
+
+div#rating
+{
+	float:right;
+}
+
+.itemEPG
+{
+
+}
+
+.altItemEPG
+{
+
+}
+
+.itemEPG td, tr, h1, h2, h3, h4, h5
+{
+	color:#fff;
+}
+
+.altItemEPG td, tr
+{
+	color:#ff1212;
+}
+
+.headerEPG
+{	
+
+	border-bottom:solid;
+}
+
+.footerEPG
+{	
+
+	border-top:solid;
+}
+
+.clock
+{
+	background-color:Black;
+	font-size:larger;
+	color:White;
+}
